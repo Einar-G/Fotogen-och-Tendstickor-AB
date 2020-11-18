@@ -147,7 +147,7 @@ nav a:hover {
   grid-column: 2;
   transition: transform 0.4s;
 }
-.fotogenPos:hover {
+.fotogenPos:hover{
   transform: scale(1.1);
 }
 
