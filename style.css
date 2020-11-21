@@ -16,12 +16,12 @@
 }
 
 .headerCompany{
-  padding: 20px;
+  padding: 1vw;
   background-image: url(header_proffs.jpg);
 }
 
 .headerPrivat{
-  padding: 20px;
+  padding: 1vw;
   background-image: url(fire_header.jpg);
 }
 
@@ -29,7 +29,7 @@
   display: flex;
   justify-content: center;
   align-content: center;
-  font-size: 40px;
+  font-size: 2.5vw;
   color: white;
   text-shadow: -1px 0 rgb(0, 0, 0), 0 1px rgb(0, 0, 0), 1px 0 rgb(0, 0, 0), 0 -1px rgb(0, 0, 0);
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
@@ -38,15 +38,15 @@
 .headerBottom {
   display: flex;
   justify-content: center;
-  font-size: 30px;
-  margin-top: 10px;
+  font-size: 1.7vw;
+  margin-top: 1vw;
   color: white;
   text-shadow: -1px 0 rgb(0, 0, 0), 0 1px rgb(0, 0, 0), 1px 0 rgb(0, 0, 0), 0 -1px rgb(0, 0, 0);
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
 }
 
 .navCompany {
-  padding: 10px;
+  padding: 0.7vw;
   background-color: rgb(72, 88, 180);
   display: flex;
   flex-direction: row;
@@ -54,7 +54,7 @@
 }
 
 .navPrivat {
-  padding: 10px;
+  padding: 0.7vw;
   background-color: rgb(177, 45, 22);
   display: flex;
   flex-direction: row;
@@ -62,7 +62,7 @@
 }
 
 nav a {  
-  font-size: 20px;
+  font-size: 1.1vw;
   color: white;
   text-decoration: none;
   text-shadow: -1px 0 rgb(0, 0, 0), 0 1px rgb(0, 0, 0), 1px 0 rgb(0, 0, 0), 0 -1px rgb(0, 0, 0);
